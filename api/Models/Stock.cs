@@ -18,6 +18,12 @@ namespace api.Models
 
         [Column(TypeName = "decimal(18,2)")]
 
-        public decimal Dividend { get; set; }
+        public decimal LastDiv { get; set; }
+
+        public string Industry { get; set; } = string.Empty;
+
+        public string MarketCap { get; set; } = string.Empty;
+
+        public List<Comment> Comments { get; set; } = new List<Comment>();
     }
 }
