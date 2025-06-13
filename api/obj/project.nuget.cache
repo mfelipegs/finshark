@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OY+sEqcix+w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mathe\\OneDrive\\Documentos\\projects\\FinShark\\api\\api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
