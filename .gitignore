@@ -1,6 +1,6 @@
 # Ignore bin and obj directories
 /bin/
-/obj/
+**/obj/
 
 # Ignore user-specific files
 *.suo
